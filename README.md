@@ -6,18 +6,18 @@
   小鄭、小王、小黃靈機一動想到了一個解決方法可以用低成本的材料，讓有音樂夢想的小朋友，可以學習音樂。 <br>
   小小貝多芬這個想法就誕生了！<br>
 ##所需材料
-  Raspberry pi *1 NT1100 <br>
-  Keyboard *1 NT150 <br>
-  Speaker *1 NT299<br>
-  Microphone *1 NT100<br>
+  - Raspberry pi *1 NT1100 
+  - Keyboard *1 NT150 
+  - Speaker *1 NT299
+  - Microphone *1 NT100
 ##使用軟體
-  Java 開發 <br>
-  Jline <br>
-  TargetDataLine <br>
-  sun.audio <br>
-  PulseAudio <br>
+  - Java 開發 
+  - Jline 
+  - TargetDataLine 
+  - sun.audio 
+  - PulseAudio 
 ##實作過程
-###功能： <br>
+###功能： 
     1. 彈奏鋼琴功能 
     2. 錄音功能 
     3. 播放錄音功能 
@@ -27,7 +27,7 @@
     3. 功能細節調整 
 ###實作遇到的困難： 
     1. 按鍵的延遲(要把音訊檔存進ram以解決) 
-    2. 外接裝置的code <br>
-##實際產出 <br>
-    1. 按按鍵會有do,re,mi,fa,so的聲音 <br>
-    2. 可以錄音,邊彈邊唱,播放錄音 <br>
+    2. 外接裝置的code 
+##實際產出 
+    1. 按按鍵會有do,re,mi,fa,so的聲音 
+    2. 可以錄音,邊彈邊唱,播放錄音 
