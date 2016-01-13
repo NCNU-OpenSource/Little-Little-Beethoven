@@ -11,11 +11,11 @@
     3. Speaker *1 NT299
     4. Microphone *1 NT100
 ##使用軟體<br>
-    1. Java 開發 
-    2. Jline 
-    3. TargetDataLine 
-    4. sun.audio 
-    5. PulseAudio 
+    - Java 開發 
+    - Jline 
+    - TargetDataLine 
+    - sun.audio 
+    - PulseAudio 
     
 ##實作過程<br>
 ###功能： 
@@ -23,17 +23,17 @@
     2. 錄音功能 
     3. 播放錄音功能 
 ###實作過程： 
-    1. 設定raspberry pi環境 
-    2. 設定外接裝置(鍵盤、喇叭、麥克風) 
-    3. 功能細節調整 
+    - 設定raspberry pi環境 
+    - 設定外接裝置(鍵盤、喇叭、麥克風) 
+    - 功能細節調整 
 ###實作遇到的困難： 
-    1. 按鍵的延遲(要把音訊檔存進ram以解決) 
-    2. 外接裝置的code 
+    - 按鍵的延遲(要把音訊檔存進ram以解決) 
+    - 外接裝置的code 
 ##實際產出： 
     - 按按鍵會有do,re,mi,fa,so的聲音 
     - 可以錄音,邊彈邊唱,播放錄音 
     
-##教學文件：
+##教學文件
 ###編譯程式碼
   ```sh
     javac -classpath .:jline-1.0.jar Close.java
