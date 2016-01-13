@@ -31,12 +31,12 @@
 ##實際產出 
     1. 按按鍵會有do,re,mi,fa,so的聲音 
     2. 可以錄音,邊彈邊唱,播放錄音 
-###教學文件：
-##編譯程式碼
+##教學文件：
+###編譯程式碼
   ```sh
     javac -classpath .:jline-1.0.jar Close.java
   ```
-##執行程式碼
+###執行程式碼
   ```sh
     java -classpath .:jline-1.0.jar Close
   ```
