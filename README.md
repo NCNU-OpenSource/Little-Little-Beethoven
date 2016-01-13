@@ -6,16 +6,16 @@
   小鄭、小王、小黃靈機一動想到了一個解決方法可以用低成本的材料，讓有音樂夢想的小朋友，可以學習音樂。 <br>
   小小貝多芬這個想法就誕生了！<br>
 ##所需材料
-  - Raspberry pi *1 NT1100 
-  - Keyboard *1 NT150 
-  - Speaker *1 NT299
-  - Microphone *1 NT100
+  1. Raspberry pi *1 NT1100 
+  2. Keyboard *1 NT150 
+  3. Speaker *1 NT299
+  4. Microphone *1 NT100
 ##使用軟體
-  - Java 開發 
-  - Jline 
-  - TargetDataLine 
-  - sun.audio 
-  - PulseAudio 
+  1. Java 開發 
+  2. Jline 
+  3. TargetDataLine 
+  4. sun.audio 
+  5. PulseAudio 
 ##實作過程
 ###功能： 
     1. 彈奏鋼琴功能 
